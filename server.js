@@ -23,7 +23,7 @@ const server = http.createServer((req, res) => {
         db.close();
          res.end(JSON.stringify({
             originalUrl: rrr.path.substring(1),
-            shortVersion: 'https://fcc-url-shortener.herokuapp.com/'+randomNum
+            shortVersion: 'https://bolat-fcc-url-shortener.herokuapp.com/'+randomNum
          }));
       });
 
