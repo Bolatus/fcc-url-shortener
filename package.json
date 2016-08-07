@@ -2,7 +2,7 @@
   "name": "fcc-url-shortener",
   "version": "1.0.0",
   "description": "fcc challenge url shortener",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "node test.js"
   },
