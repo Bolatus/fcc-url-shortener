@@ -1,0 +1,15 @@
+{
+  "name": "fcc-url-shortener",
+  "version": "1.0.0",
+  "description": "fcc challenge url shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Bolat Tussupzhanov",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.2.5",
+    "valid-url": "^1.0.9"
+  }
+}
